@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) 
+
+![Screenshot (441)](https://github.com/Prasannaverse13/SaaS-AI---Revolutionizing-Business-Operations-with-AI/assets/116105281/b07c6033-136f-4384-a064-49828422bd4d)
+
 
 ## Getting Started
 
